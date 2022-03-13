@@ -1,0 +1,15 @@
+/home/jh/rust/mkdicitemkey/tests/target/debug/deps/indexmap-40358e763b4f2fb9.rmeta: /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/lib.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/macros.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/equivalent.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/mutable_keys.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/serde.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/serde_seq.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/util.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/map.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/map/core.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/map/core/raw.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/set.rs
+
+/home/jh/rust/mkdicitemkey/tests/target/debug/deps/indexmap-40358e763b4f2fb9.d: /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/lib.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/macros.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/equivalent.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/mutable_keys.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/serde.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/serde_seq.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/util.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/map.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/map/core.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/map/core/raw.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/set.rs
+
+/home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/lib.rs:
+/home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/macros.rs:
+/home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/equivalent.rs:
+/home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/mutable_keys.rs:
+/home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/serde.rs:
+/home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/serde_seq.rs:
+/home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/util.rs:
+/home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/map.rs:
+/home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/map/core.rs:
+/home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/map/core/raw.rs:
+/home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/set.rs:

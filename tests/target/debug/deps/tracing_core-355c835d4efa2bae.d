@@ -1,0 +1,14 @@
+/home/jh/rust/mkdicitemkey/tests/target/debug/deps/tracing_core-355c835d4efa2bae.rmeta: /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.23/src/lib.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.23/src/callsite.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.23/src/dispatcher.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.23/src/event.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.23/src/field.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.23/src/metadata.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.23/src/parent.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.23/src/span.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.23/src/stdlib.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.23/src/subscriber.rs
+
+/home/jh/rust/mkdicitemkey/tests/target/debug/deps/tracing_core-355c835d4efa2bae.d: /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.23/src/lib.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.23/src/callsite.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.23/src/dispatcher.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.23/src/event.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.23/src/field.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.23/src/metadata.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.23/src/parent.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.23/src/span.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.23/src/stdlib.rs /home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.23/src/subscriber.rs
+
+/home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.23/src/lib.rs:
+/home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.23/src/callsite.rs:
+/home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.23/src/dispatcher.rs:
+/home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.23/src/event.rs:
+/home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.23/src/field.rs:
+/home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.23/src/metadata.rs:
+/home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.23/src/parent.rs:
+/home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.23/src/span.rs:
+/home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.23/src/stdlib.rs:
+/home/jh/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.23/src/subscriber.rs:
