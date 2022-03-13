@@ -32,6 +32,8 @@ pub extern "C" fn call() {
     let key = runtime::get_named_arg("input_key");
     // provided like this
     // --session-arg "input_key:key='hash-9e91c68f5e1b8c020a056f037dc669dc1d5a385ff7bf7594587fd2cefca8ff71'"
+    // or
+    // --session-arg "input_key:key='account-hash-2293223427d59ebb331ac2221c3fcd1b3656a5cb72be924a6cdc9d52cdb6db0f'"
     //======================
     let dict_item_key = make_dictionary_item_key(key);
 
